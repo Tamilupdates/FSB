@@ -1,33 +1,4 @@
-# File-sharing-Bot
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
-  </a>
-  <br>
-  <a href="https://t.me/ultroidofficial_support">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/7thofficial/File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/tamilupdates/FSB?style=social">
-  </a>
-  <a href="https://github.com/7thofficial/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/tamilupdates/FSB?label=Fork&style=social">
-  </a>  
-</p>
-
-
-Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
-
-##
-
-**If you need any more modes in repo or If you find out any bugs, mention in [@ultroid_support ](https://www.telegram.dog/ultroidOFFICIAL_support)**
-
-**Make sure to see [contributing.md](https://github.com/7thofficial/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
-
-
+# File Sharing Bot
 
 ### Features
 - Fully customisable.
@@ -45,10 +16,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/FSB)</br>
-<a href="https://www.youtube.com/watch?v=BeNBEYc-q7Y">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a>
-
 
 #### Deploy in your VPS
 ````bash
@@ -116,10 +83,6 @@ stats - checking your bot uptime
 
 * `{uptime}` - Bot Uptime
 
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/ultroidofficial_support) For Support/Assistance And Our [Channel](https://www.telegram.dog/ultroidofficial) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
@@ -133,3 +96,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
+
+   
